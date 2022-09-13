@@ -10,9 +10,7 @@ int main()
 {
     //This code is displying my name
     printf("Hi, my name is Pibil Francis Annan");
+    
     return 0;
-    //2:57:27
-    //To be continued
-
 }
 
