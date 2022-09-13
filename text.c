@@ -1,6 +1,7 @@
 /*
 Author : Pibil Francis
 Purpose : This program prints out my name
+Date : 13/09/2022
 */
 
 #include <stdio.h>
