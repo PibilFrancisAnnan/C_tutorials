@@ -7,5 +7,5 @@
 
 int main()
 {
-	printf("hello, world\n");
+	printf("hello, world\n");// The notation \n means next line. 
 }
